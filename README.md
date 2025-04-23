@@ -1,2 +1,1 @@
-# XSS---CSP-Bypass-Challenge
-Simple CSP bypass challenge
+Ensure the CSP is applied to the web server config.
